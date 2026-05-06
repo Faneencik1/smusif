@@ -1,13 +1,13 @@
 import ArtiSun from "$lib/assets/artist_avaatars/ArtiSun.png"
 import klorbot from "$lib/assets/artist_avaatars/klorbot.png"
-import OSKENIS from "$lib/assets/artist_avaatars/OSKENIS.jpg"
-import WALKER from "$lib/assets/artist_avaatars/WALKER.jpg"
-import lazyLion from "$lib/assets/artist_avaatars/LazyLion.jpg"
+import ArtMyBro from "$lib/assets/artist_avaatars/ArtMyBro.jpg"
+import CookieMail from "$lib/assets/artist_avaatars/CookieMail.jpg"
+import NikKat from "$lib/assets/artist_avaatars/NikKat.jpg"
 
 export let artists = [
     ['Arti Sun', ArtiSun],
-    ['OSKENIS', OSKENIS],
-    ['ВАЛКЕР', WALKER],
+    ['Арт Мой Брат', ArtMyBro],
+    ['CookieMail', CookieMail],
     ['klorbot', klorbot],
-    ["Lazy Lion", lazyLion],
+    ["NikKat", NikKat],
 ];
