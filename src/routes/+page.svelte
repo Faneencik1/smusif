@@ -138,11 +138,11 @@
         </div>
         <nav>
             <ul>
-                <li><a href="/">главная</a></li>
-                <li><a href="#about-us" on:click={scrollToSection(1)}>о нас</a></li>
-                <li><a href="#why-us" on:click={scrollToSection(2)}>почему мы</a></li>
-                <li><a href="#our-artists" on:click={scrollToSection(3)}>артисты</a></li>
-                <li><a href="#our-releases" on:click={scrollToSection(4)}>релизы</a></li>
+                <li><a href="/">Главная</a></li>
+                <li><a href="#about-us" on:click={scrollToSection(1)}> О нас</a></li>
+                <li><a href="#why-us" on:click={scrollToSection(2)}>Почему мы?</a></li>
+                <li><a href="#our-artists" on:click={scrollToSection(3)}>Артисты</a></li>
+                <li><a href="#our-releases" on:click={scrollToSection(4)}>Релизы</a></li>
             </ul>
         </nav>
         <div class="second-logo-animations">
@@ -164,10 +164,10 @@
                         <img src="{smusifLogo}" alt="SMUSIF" class="smusif-logo">
                     </div>
                     <p class="subtitle">Твой проводник в мир музыки</p>
-                    <form action="https://forms.yandex.ru/u/66bbd23684227c669abd390f/" target="_blank"
+                    <form action="https://t.me/smusif" target="_blank"
                           class="application-button-pos">
                         <div class="application-button-scale">
-                            <button class="application-button">оставить заявку</button>
+                            <button class="application-button">Оставить заявку!</button>
                         </div>
                     </form>
                 </div>
@@ -213,7 +213,7 @@
 
 
         <section bind:this={whyUsSection} id="why-us">
-            <h2>Почему мы</h2>
+            <h2>Почему мы?</h2>
             <div class="why-us-container">
                 <div class="why-us-choose">
                     <img src="{moneyUp}" alt="money-up" class="hover-image active-image" id="image1">
@@ -290,7 +290,7 @@
 </div>
 <footer>
     <div class="footer-things">
-        <p>© Smusif 2024</p>
+        <p>© Smusif 2026</p>
         <div class="footer-icos">
             <a href="https://t.me/smusif_label" class="telegram-link">
                 <img src="{telegramFooter}" alt="telegram-footer">
@@ -299,7 +299,7 @@
                 <img src="{vkFooter}" alt="vk-footer">
             </a>
         </div>
-        <p>support@smusif.ru</p>
+        <p>smusiflabel@mail.ru</p>
     </div>
 </footer>
 
