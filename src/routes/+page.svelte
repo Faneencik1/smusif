@@ -298,6 +298,9 @@
             <a href="https://vk.com/smusif" class="link vk-link">
                 <img src="{vkFooter}" alt="vk-footer">
             </a>
+            <a href="https://music.yandex.ru/label/5685248" class="link-yandex">
+                <img src="{yandexFooter}" alt="yandex-footer">
+            </a>
         </div>
         <p>smusiflabel@mail.ru</p>
     </div>
