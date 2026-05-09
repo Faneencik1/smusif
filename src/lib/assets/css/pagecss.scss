@@ -1476,27 +1476,17 @@ main {
 }
 
 @media (max-width: 360px) {
-  .telegram-link {
-    img {
-      width: 42px;
-      height: 42px;
-    }
+  .telegram-link img,
+  .vk-link img,
+  .link-yandex img {
+    width: 42px;
+    height: 42px;
   }
-  .vk-link {
-    img {
-      width: 42px;
-      height: 42px;
-    }
-  }
-    .yandex-link {
-    img {
-      width: 42px;
-      height: 42px;
-    }
-  }
+
   .artist-slider {
     translate: -232px 0 0;
     width: 188%;
+
     &:before {
       left: 156px;
     }
@@ -1505,12 +1495,15 @@ main {
       right: -40px;
     }
   }
+
   .about-us-text {
     max-width: 180px;
   }
+
   .partner-card {
     width: 65px;
   }
+
   .partner-card-long {
     width: 125px;
   }
