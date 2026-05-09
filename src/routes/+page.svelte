@@ -26,6 +26,7 @@
 
     import telegramFooter from "$lib/assets/img/telegram-footer.svg";
     import vkFooter from "$lib/assets/img/vk-footer.svg";
+    import yandexFooter from "$lib/assets/img/yandex-footer.svg";
     import type {MouseEventHandler} from "svelte/elements";
     import {onMount} from "svelte";
 
