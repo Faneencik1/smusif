@@ -1476,14 +1476,23 @@ main {
 }
 
 @media (max-width: 360px) {
-.telegram-link,
-.vk-link,
-.link-yandex {
-  img {
-    width: 42px;
-    height: 42px;
+  .telegram-link {
+    img {
+      width: 42px;
+      height: 42px;
+    }
   }
-}
+  .vk-link {
+    img {
+      width: 42px;
+      height: 42px;
+    }
+  }
+    .yandex-link {
+    img {
+      width: 42px;
+      height: 42px;
+    }
   .artist-slider {
     translate: -232px 0 0;
     width: 188%;
