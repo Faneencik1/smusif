@@ -293,13 +293,13 @@
     <div class="footer-things">
         <p>© Smusif 2026</p>
         <div class="footer-icos">
-            <a href="https://t.me/smusif_label" class="telegram-link">
+            <a href="https://t.me/smusif_label" class="links-footer telegram-link">
                 <img src="{telegramFooter}" alt="telegram-footer">
             </a>
-            <a href="https://vk.com/smusif" class="link vk-link">
+            <a href="https://vk.com/smusif" class="links-footer link vk-link">
                 <img src="{vkFooter}" alt="vk-footer">
             </a>
-            <a href="https://music.yandex.ru/label/5685248" class="link-yandex">
+            <a href="https://music.yandex.ru/label/5685248" class="links-footer link-yandex">
                 <img src="{yandexFooter}" alt="yandex-footer">
             </a>
         </div>
