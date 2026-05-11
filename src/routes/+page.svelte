@@ -165,7 +165,7 @@
                         <img src="{smusifLogo}" alt="SMUSIF" class="smusif-logo">
                     </div>
                     <p class="subtitle">Твой проводник в мир музыки</p>
-                    <form action="https://t.me/smusif" target="_blank"
+                    <form action="https://forms.yandex.ru/u/6a01f4d249af47c224c1bd98/" target="_blank"
                           class="application-button-pos">
                         <div class="application-button-scale">
                             <button class="application-button">Оставить заявку!</button>
