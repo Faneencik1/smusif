@@ -10,5 +10,6 @@ export let artists = [
     ['Арт Мой Брат', ArtMyBro],
     ['CookieMail', CookieMail],
     ['klorbot', klorbot],
+    ['NikKat', NikKat],
     ["IVASBANAS", IVASBANAS],
 ];
