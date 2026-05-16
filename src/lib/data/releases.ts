@@ -4,4 +4,5 @@ export let releases = [
     ['КУПЕР', 'klorbot, Курьер-звукарь', "/releases/kuper.png", "/releases/kuper.mp3", false],
     ['НАХЛЕБНИКИ', 'Арт Мой Брат', "/releases/nahlebniki.png", "/releases/nahlebniki.mp3", false],
     ['Лучше с другой', 'IVASBANAS', "/releases/betterwithanother.png", "/releases/betterwithanother.mp3", false],
+    ['Нет и не было проблем', 'NikKat', "/releases/natwnp.png", "/releases/natwnp.mp3", false],
 ]
