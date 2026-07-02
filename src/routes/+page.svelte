@@ -303,7 +303,7 @@
                 <img src="{yandexFooter}" alt="yandex-footer">
             </a>
         </div>
-        <p>smusiflabel@mail.ru</p>
+        <p>Ivan: faneencik@faneencik.ru</p>
     </div>
 </footer>
 
